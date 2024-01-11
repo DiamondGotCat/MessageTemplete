@@ -1,0 +1,2 @@
+# MessageTemplete
+メッセージを考えてくれるよ
